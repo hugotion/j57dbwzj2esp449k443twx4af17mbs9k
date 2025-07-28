@@ -7,6 +7,6 @@ sha: 733205401916aecc9bee30a0622fa1efb110599b
 title: Contact
 type: page
 ---
-And this is contact!
+Contact is getting changed!
 
 {{< form-contact action="<https://example.com>" >}}

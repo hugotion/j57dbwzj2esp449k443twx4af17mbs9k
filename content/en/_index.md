@@ -6,4 +6,4 @@ sha: cdea05760b8b9783060cad49ec3fb0959b95fbcd
 theme_version: 2.8.2
 title: 'Ananke: a Hugo Theme'
 ---
-Abraindex
+Index is getting changed
