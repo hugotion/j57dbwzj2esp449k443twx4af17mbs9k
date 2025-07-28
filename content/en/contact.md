@@ -3,10 +3,10 @@ description: We'd love to hear from you
 featured_image: ''
 menu: main
 omit_header_text: true
-sha: 733205401916aecc9bee30a0622fa1efb110599b
+sha: 782fe899976579d6996a26902b11df9639334a98
 title: Contact
 type: page
 ---
-Contact is getting changed!
+Jumba contact!
 
 {{< form-contact action="<https://example.com>" >}}
