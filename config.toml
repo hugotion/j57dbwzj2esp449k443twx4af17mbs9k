@@ -1,4 +1,4 @@
-title = "Just settings"
+title = "Config!"
 baseURL = "https://hugotion.github.io/j57dbwzj2esp449k443twx4af17mbs9k/"
 languageCode = "en-us"
 theme = "ananke"
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
 [languages.en]
-title = "And some title changes!"
+title = "And contact should be changed too!"
 weight = 1
 contentDir = "content/en"
 # languageDirection = 'rtl' for Right-To-Left languages
