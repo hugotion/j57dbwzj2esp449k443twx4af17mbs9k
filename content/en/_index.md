@@ -6,4 +6,4 @@ sha: cff3d086c9ccf9b4091f3e767320216f7b1e4dce
 theme_version: 2.8.2
 title: 'Ananke: a Hugo Theme'
 ---
-File changed..
+This is a change of file..
