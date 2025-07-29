@@ -7,6 +7,6 @@ sha: 782fe899976579d6996a26902b11df9639334a98
 title: Contact
 type: page
 ---
-Jumba contact!
+And this is contact, also something I am changing!
 
 {{< form-contact action="<https://example.com>" >}}
